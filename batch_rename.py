@@ -1,5 +1,6 @@
 """
-Script to batch rename .mkv and .srt files. Tedious on win10 powershell, easy peasy with python. Written Jupyter notebooks cause thats what I'm currently getting comfortable with.
+Script to batch rename .mkv and .srt files. Tedious on win10 powershell, easy peasy with python. 
+Originaly written in Jupyter notebooks cause thats what I'm currently getting comfortable with.
 """
 from pathlib import Path
 import os
